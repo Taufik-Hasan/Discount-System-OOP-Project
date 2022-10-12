@@ -1,6 +1,17 @@
 # Discount-System-OOP-Project
 Discount System ( Object Oriented Programming Language ) Project
 
+In this Project I use:
+1. Object Oriented Concept.
+2. Class, object.
+3. Virtual class.
+4. Inheritance.
+5. Friend function.
+6. Function Overloading.
+7. Operator Overloading.
+8. Exception Handling.
+9. Vector.
+10. Iterator.
 
 #Discount System. 
 
